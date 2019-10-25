@@ -13,3 +13,10 @@
 github 加载`ipynb`文件缓慢并且容易失败 可直接访问该地址
 [https://nbviewer.jupyter.org/github/lianxiaobao/dataset/blob/master/analysis_linear_regression_script.ipynb](https://nbviewer.jupyter.org/github/lianxiaobao/dataset/blob/master/analysis_linear_regression_script.ipynb)
 [https://nbviewer.jupyter.org/github/lianxiaobao/dataset/blob/master/analysis_linear_description_script.ipynb](https://nbviewer.jupyter.org/github/lianxiaobao/dataset/blob/master/analysis_linear_description_script.ipynb)
+
+
+## 个人博客
+[https://lianxiaobao.github.io/](https://lianxiaobao.github.io/)
+
+## 微信号
+Bao1697047283
