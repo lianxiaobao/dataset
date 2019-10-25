@@ -63,7 +63,7 @@ for i in range(1, k-3):
     print(result_day, end='\t')
 
 
-    print(i)
+    print(i) 
 
     pos ={
         'result_num': result_num,
